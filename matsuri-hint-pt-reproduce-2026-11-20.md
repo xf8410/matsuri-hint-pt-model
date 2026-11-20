@@ -61,4 +61,12 @@ margins and action choices separately from total-score error.
 - `umaai-project/umaai-next` at `ae3cab19bd6b8f2cbf9f9a3a4c49ced7bea6be94`.
 - `URA-Plugins/SkillTipsResponseAnalyzer` at `1012961f85fc98f0dcd96b2881d055b8b08c4571`.
 
-Script SHA-256: `e41abfee3a23391d020c9090a879f824d52f441aa2bb6e9c75d1a47e37aec1c8`.
+## SHA-256
+
+| File | SHA-256 |
+| --- | --- |
+| Original ZIP's `matsuri-hint-pt-experiment.cjs` | `e41abfee3a23391d020c9090a879f824d52f441aa2bb6e9c75d1a47e37aec1c8` |
+| Published `matsuri-hint-pt-experiment.cjs` | `140f130e2754a1a4baba808833b2d917111d7a213fbc4b014962ee8ee80af81b` |
+| Published `compare.cjs` | `27a6330e79fed669eb5ada0d14e8241d8bbce452f17621077eb8a180cc402b0c` |
+
+The published original script differs from the ZIP only by the final line feed; its code and behavior are unchanged.
